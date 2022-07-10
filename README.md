@@ -1,6 +1,6 @@
 <h1 align=center>VANI SETH'S PROJECT </h1>
 <ul>
-<li>This Project is a partially built project on Simple Arithmetic Game for <i>single player</i>.</li>
+<li>This Project is a Simple Arithmetic Game for <i>single player</i>.</li>
 
 <li>Most of the coding part is already done, however, some clues are left in between (comments //) where students can write their codes.</li>
 
